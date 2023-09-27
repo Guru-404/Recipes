@@ -1,3 +1,3 @@
 # Recipes
 
-https://mockjoke.github.io/Recipes/
+https://mockjoke.github.io/Recipes/index.html
