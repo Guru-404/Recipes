@@ -1,3 +1,3 @@
 # Recipes
 
-https://mockjoke.github.io/Recipes/index.html
+https://guru-404.github.io/Recipes/
